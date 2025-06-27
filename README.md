@@ -48,8 +48,3 @@ The objective of this task is to demonstrate the use of SQL aggregate functions 
 
 
 
-## 🔗 Submission
-
-GitHub Repository: [Paste your repo link here]
-
----
